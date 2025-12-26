@@ -1,46 +1,98 @@
 ₊˚                                      
 
 
-###### Data Analytic Machine ✧ Learning 
+# Olá, Mundo! 👋  
+Eu sou Suami
 
-- 🌍 Sou de **Araguaína - TO**
-- 📚 Estudando [**Data Science com Python <br> pelo DIO & Santander**](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2025-2-sem)
-- 📈 Me preparando para a <br> certificação **AWS Practitioner**<br> pelo [**LINUXTIPS**](https://linuxtips.io?wlr_ref=REF-LT-LDR-0RD) #ChamaAsMina 
+Profissional de **Análise de Dados** com background em tecnologia e forte foco em transformar dados em informações claras, confiáveis e úteis para a tomada de decisão. Atuo na coleta, organização, exploração e visualização de dados, sempre com atenção à qualidade, contexto e impacto do que está sendo analisado.
 
-- 🎓 **Inglês intermediario**
-- 💻 Principais linguagens de <br>programação são **SQL**, **Python** e **R**
+Minha trajetória passa por desenvolvimento de sistemas, dados e educação, o que me permite enxergar problemas de forma analítica e estruturada. Tenho facilidade em traduzir dados complexos em insights compreensíveis para diferentes públicos, conectando números a decisões reais de negócio.
 
-<div><br>
-  <img alt="Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="SQL" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="AWS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="R" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-          
-</div>
-<br>
+Tenho interesse especial em **Analytics, Business Intelligence e Data Storytelling**, buscando sempre gerar valor por meio de análises bem fundamentadas, visualizações eficientes e comunicação clara.
 
-<div>
+
+<p align="center">
+<img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/google-ai-essentials.png" />
+<img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/data-fundamentals.png" />
+<img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/databricks=fundamentals.png" />
+</p>
+
+
+---
+
+## O que eu faço 🚀
+- Analiso dados para apoiar decisões estratégicas e operacionais  
+- Limpo, organizo e preparo bases de dados para análise  
+- Crio dashboards e relatórios analíticos  
+- Exploro dados para identificar padrões, tendências e oportunidades  
+- Traduzo resultados técnicos em insights acionáveis para áreas de negócio  
+
+---
+
+## Habilidades & Ferramentas 👩‍💻
+
+### Linguagens
+- Python  
+- SQL  
+- R  
+
+### Análise e Manipulação de Dados
+- Pandas, NumPy  
+- dplyr, tidyr  
+
+### Visualização de Dados
+- Matplotlib, Seaborn, Plotly  
+- Power BI  
+- ~~Looker Studio~~  
+
+### Estatística Descritiva
+- Medidas de tendência central e dispersão  
+- Análise exploratória de dados (EDA)  
+- Correlação e análise de distribuição  
+
+### Plataformas & Ambiente
+- ~~Google Cloud Platform (GCP)~~ 
+- AWS 
+- BigQuery  
+- Databricks
+- Tableau
+- Jupyter Notebook  
+- Git & GitHub  
+
+---
+
+## Diferenciais ✨
+- Forte capacidade analítica e pensamento crítico  
+- Boa comunicação com públicos técnicos e não técnicos  
+- Organização, clareza e atenção à qualidade dos dados  
+- Experiência conectando tecnologia, dados e educação  
+- Compromisso com aprendizado contínuo em Analytics  
+
+---
+
+## Vamos nos conectar 🤝
+Se você busca alguém focada em **Análise de Dados, BI e Insights**, ou se quiser trocar ideias sobre dados e analytics, fique à vontade para explorar meus projetos ou entrar em contato.
+
+
+
+<div align="center">
   <a href="https://www.linkedin.com/in/suami-medeiros/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  
   <a href="https://www.instagram.com/suamimedeiros/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&&color=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&&color=pink" target="_blank">
   </a>
-  
-  <a href="suamirochati@gmail.com">
-    <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&color=white">
+  <a href="https://www.x.com/surocham/" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&&color=pink" target="_blank">
   </a>
-
+  <a href="https://discord.gg/he4rt" target="_blank">
+    <img src="https://img.shields.io/badge/-He4rt-%23E4405F?style=for-the-badge&&color target="_blank">
+  </a>
 </div>
-⠀⠀⠀⠀
 
 
 ˚₊  
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=suamirochadev&label=Profile%20views&color=blue&style=for-the-badge" alt="suamirochadev" />
+</div>
   
-<img height="150" width="150" src="https://github.com/suamirochadev/suamirochadev/blob/main/google-ai-essentials.png" />
-
-
