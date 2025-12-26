@@ -14,7 +14,7 @@ Tenho interesse especial em **Analytics, Business Intelligence e Data Storytelli
 <p align="center">
 <img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/google-ai-essentials.png" />
 <img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/data-fundamentals.png" />
-<img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/databricks=fundamentals.png" />
+<img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/databricks-fundamentals.png" />
 </p>
 
 
