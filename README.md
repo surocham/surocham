@@ -86,7 +86,7 @@ Se você busca alguém focada em **Análise de Dados, BI e Insights**, ou se qui
     <img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&&color=pink" target="_blank">
   </a>
   <a href="https://discord.gg/he4rt" target="_blank">
-    <img src="https://img.shields.io/badge/-He4rt-%23E4405F?style=for-the-badge&&color target="_blank">
+    <img src="https://img.shields.io/badge/he4rt-6F2DA8?style=for-the-badge"_blank">
   </a>
 </div>
 
