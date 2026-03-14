@@ -2,7 +2,7 @@
 
 
 # Olá, Mundo! 👋  
-Eu sou Suami
+Me chamo Suami
 
 Profissional de **Análise de Dados** com background em tecnologia e forte foco em transformar dados em informações claras, confiáveis e úteis para a tomada de decisão. Atuo na coleta, organização, exploração e visualização de dados, sempre com atenção à qualidade, contexto e impacto do que está sendo analisado.
 
@@ -15,6 +15,8 @@ Tenho interesse especial em **Analytics, Business Intelligence e Data Storytelli
 <img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/google-ai-essentials.png" />
 <img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/data-fundamentals.png" />
 <img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/databricks-fundamentals.png" />
+<img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/minicursodePowerBi-xperiun.png" />
+<img height="100" width="100" src="https://github.com/suamirochadev/suamirochadev/blob/main/minicursodeSQL-xperiun.png" />
 </p>
 
 
@@ -38,12 +40,9 @@ Tenho interesse especial em **Analytics, Business Intelligence e Data Storytelli
 
 ### Análise e Manipulação de Dados
 - Pandas, NumPy  
-- dplyr, tidyr  
 
 ### Visualização de Dados
 - Matplotlib, Seaborn, Plotly  
-- Power BI  
-- ~~Looker Studio~~  
 
 ### Estatística Descritiva
 - Medidas de tendência central e dispersão  
@@ -51,13 +50,19 @@ Tenho interesse especial em **Analytics, Business Intelligence e Data Storytelli
 - Correlação e análise de distribuição  
 
 ### Plataformas & Ambiente
-- ~~Google Cloud Platform (GCP)~~ 
+- Google Cloud Platform (GCP)
 - AWS 
+- Databricks
+- dbt
+- Airflow
+- Docker
 - BigQuery  
 - Databricks
 - Tableau
 - Jupyter Notebook  
 - Git & GitHub  
+- Power BI
+- Fabric
 
 ---
 
