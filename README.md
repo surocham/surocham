@@ -1,11 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c6d0,100:f2a7b8&height=140&section=header&text=Suami%20Medeiros&fontSize=38&fontColor=fff&fontAlignY=65&animation=fadeIn&desc=Data%20Analyst%20%C2%B7%20Data%20Scientist%20%C2%B7%20Data%20Engineer&descSize=14&descAlignY=82&descFontColor=fff5f7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c6d0,100:f2a7b8&height=140&section=header&text=Suami%20Medeiros&fontSize=38&fontColor=fff&fontAlignY=30&animation=fadeIn&desc=Data%20Analyst%20%C2%B7%20Data%20Scientist%20%C2%B7%20Data%20Engineer&descSize=14&descAlignY=82&descFontColor=fff5f7" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/suami-medeiros/">
+<a href="https://suamirocham.substack.com">
+    <img src="https://img.shields.io/badge/Substack-f2a7b8?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/surocham/">
     <img src="https://img.shields.io/badge/LinkedIn-f2a7b8?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -25,8 +28,8 @@
 <div align="center">
 
 Profissional de dados com background em tecnologia e educação.<br>
-Atuo nas três frentes do universo de dados — análise, ciência e engenharia —<br>
-com foco em qualidade, clareza e impacto real nas decisões de negócio.
+Atuo nas três frentes do universo de dados: análise, ciência e engenharia.<br>
+Com foco em qualidade, clareza e impacto real nas decisões de negócio.
 
 </div>
 
