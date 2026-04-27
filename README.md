@@ -5,7 +5,10 @@
 <br>
 
 <div align="center">
-<a href="https://suamirocham.substack.com">
+<a href="https://medium.com/@surocham">
+    <img src="https://img.shields.io/badge/Medium-f2a7b8?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://suamirocham.substack.com">
     <img src="https://img.shields.io/badge/Substack-f2a7b8?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/surocham/">
@@ -21,6 +24,10 @@
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=suamirochadev&style=flat-square&color=f2a7b8&label=views" />
+
+  <a href="https://surocham.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-f2a7b8?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <br>
