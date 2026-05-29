@@ -114,16 +114,12 @@ Foco em qualidade, governança e soluções que não quebram quando a demanda es
 <br>
 
 <div align="center">
-  <img height="90" src="https://github.com/suamirochadev/suamirochadev/blob/main/google-ai-essentials.png" />
   &nbsp;
   <img height="90" src="https://github.com/suamirochadev/suamirochadev/blob/main/data-fundamentals.png" />
   &nbsp;
   <img height="90" src="https://github.com/suamirochadev/suamirochadev/blob/main/databricks-fundamentals.png" />
   &nbsp;
-  <img height="90" src="https://github.com/suamirochadev/suamirochadev/blob/main/minicursodePowerBI-xperiun.png" />
-  &nbsp;
-  <img height="90" src="https://github.com/suamirochadev/suamirochadev/blob/main/minicursodeSQL-xperiun.png" />
-</div>
+
 
 <br>
 
